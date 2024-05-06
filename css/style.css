@@ -6,3 +6,7 @@
 body {
     font-family: "Poppins", sans-serif;
 }
+
+.colorize:hover {
+    filter: hue-rotate(0deg); /* Change the hue to 90 degrees (affects color) */
+  }
